@@ -76,7 +76,7 @@ for($m = 0;$m < count($articles);$m ++){
     echo $stock[$m].' '.$articles[$m].' ';
 }
 
-//Fait par GOLBIN Dorian
+//Fait par GOLBIN Dorian SIO 1
 
 
 
